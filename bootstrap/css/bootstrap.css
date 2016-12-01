@@ -16,7 +16,7 @@ body {
   margin: 0 auto;
   line-height: 1.5;
   background-image: url('../../images/banner_14198.jpg');
-  background-size: cover;
+  background-size: contain;
   background-position: center;
 }
 article,
