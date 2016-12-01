@@ -16,8 +16,7 @@ body {
   margin: 0 auto;
   line-height: 1.5;
   background-image: url('../../images/banner_14198.jpg');
-  background-size: cover;
-  background-position: center;
+  background-size: contain;
 }
 article,
 aside,
@@ -4968,7 +4967,7 @@ a.badge:focus {
   padding-bottom: 30px;
   margin-bottom: 30px;
   color: inherit;
-  background-color:rgba(200,200,200,0.8);
+  background-color: rgba(245,212,217,0.8);
 }
 .jumbotron h1,
 .jumbotron .h1 {
